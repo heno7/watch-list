@@ -1,4 +1,4 @@
-const BASE_URL = 'http://www.omdbapi.com/?apikey=3885fdf7&'
+const BASE_URL = 'https://www.omdbapi.com/?apikey=3885fdf7&'
 
 const searchBtn = document.querySelector(".search-btn")
 const searchForm = document.getElementById('search-form')
